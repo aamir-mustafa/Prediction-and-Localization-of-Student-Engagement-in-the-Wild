@@ -1,0 +1,201 @@
+Train on 432 samples, validate on 214 samples
+Epoch 1/100
+432/432 [==============================] - 0s - loss: 0.0162 - mean_squared_error: 0.0162 - val_loss: 0.0111 - val_mean_squared_error: 0.0111
+Epoch 2/100
+432/432 [==============================] - 0s - loss: 0.0144 - mean_squared_error: 0.0144 - val_loss: 0.0084 - val_mean_squared_error: 0.0084
+Epoch 3/100
+432/432 [==============================] - 0s - loss: 0.0079 - mean_squared_error: 0.0079 - val_loss: 0.0069 - val_mean_squared_error: 0.0069
+Epoch 4/100
+432/432 [==============================] - 0s - loss: 0.0096 - mean_squared_error: 0.0096 - val_loss: 0.0070 - val_mean_squared_error: 0.0070
+Epoch 5/100
+432/432 [==============================] - 0s - loss: 0.0067 - mean_squared_error: 0.0067 - val_loss: 0.0082 - val_mean_squared_error: 0.0082
+Epoch 6/100
+432/432 [==============================] - 0s - loss: 0.0077 - mean_squared_error: 0.0077 - val_loss: 0.0086 - val_mean_squared_error: 0.0086
+Epoch 7/100
+432/432 [==============================] - 0s - loss: 0.0076 - mean_squared_error: 0.0076 - val_loss: 0.0078 - val_mean_squared_error: 0.0078
+Epoch 8/100
+432/432 [==============================] - 0s - loss: 0.0059 - mean_squared_error: 0.0059 - val_loss: 0.0072 - val_mean_squared_error: 0.0072
+Epoch 9/100
+432/432 [==============================] - 0s - loss: 0.0060 - mean_squared_error: 0.0060 - val_loss: 0.0079 - val_mean_squared_error: 0.0079
+Epoch 10/100
+432/432 [==============================] - 0s - loss: 0.0071 - mean_squared_error: 0.0071 - val_loss: 0.0077 - val_mean_squared_error: 0.0077
+Epoch 11/100
+432/432 [==============================] - 0s - loss: 0.0061 - mean_squared_error: 0.0061 - val_loss: 0.0064 - val_mean_squared_error: 0.0064
+Epoch 12/100
+432/432 [==============================] - 0s - loss: 0.0065 - mean_squared_error: 0.0065 - val_loss: 0.0056 - val_mean_squared_error: 0.0056
+Epoch 13/100
+432/432 [==============================] - 0s - loss: 0.0067 - mean_squared_error: 0.0067 - val_loss: 0.0055 - val_mean_squared_error: 0.0055
+Epoch 14/100
+432/432 [==============================] - 0s - loss: 0.0050 - mean_squared_error: 0.0050 - val_loss: 0.0093 - val_mean_squared_error: 0.0093
+Epoch 15/100
+432/432 [==============================] - 0s - loss: 0.0058 - mean_squared_error: 0.0058 - val_loss: 0.0057 - val_mean_squared_error: 0.0057
+Epoch 16/100
+432/432 [==============================] - 0s - loss: 0.0058 - mean_squared_error: 0.0058 - val_loss: 0.0054 - val_mean_squared_error: 0.0054
+Epoch 17/100
+432/432 [==============================] - 0s - loss: 0.0049 - mean_squared_error: 0.0049 - val_loss: 0.0120 - val_mean_squared_error: 0.0120
+Epoch 18/100
+432/432 [==============================] - 0s - loss: 0.0059 - mean_squared_error: 0.0059 - val_loss: 0.0051 - val_mean_squared_error: 0.0051
+Epoch 19/100
+432/432 [==============================] - 0s - loss: 0.0051 - mean_squared_error: 0.0051 - val_loss: 0.0049 - val_mean_squared_error: 0.0049
+Epoch 20/100
+432/432 [==============================] - 0s - loss: 0.0054 - mean_squared_error: 0.0054 - val_loss: 0.0059 - val_mean_squared_error: 0.0059
+Epoch 21/100
+432/432 [==============================] - 0s - loss: 0.0057 - mean_squared_error: 0.0057 - val_loss: 0.0050 - val_mean_squared_error: 0.0050
+Epoch 22/100
+432/432 [==============================] - 0s - loss: 0.0040 - mean_squared_error: 0.0040 - val_loss: 0.0079 - val_mean_squared_error: 0.0079
+Epoch 23/100
+432/432 [==============================] - 0s - loss: 0.0076 - mean_squared_error: 0.0076 - val_loss: 0.0046 - val_mean_squared_error: 0.0046
+Epoch 24/100
+432/432 [==============================] - 0s - loss: 0.0051 - mean_squared_error: 0.0051 - val_loss: 0.0047 - val_mean_squared_error: 0.0047
+Epoch 25/100
+432/432 [==============================] - 0s - loss: 0.0044 - mean_squared_error: 0.0044 - val_loss: 0.0047 - val_mean_squared_error: 0.0047
+Epoch 26/100
+432/432 [==============================] - 0s - loss: 0.0044 - mean_squared_error: 0.0044 - val_loss: 0.0047 - val_mean_squared_error: 0.0047
+Epoch 27/100
+432/432 [==============================] - 0s - loss: 0.0057 - mean_squared_error: 0.0057 - val_loss: 0.0067 - val_mean_squared_error: 0.0067
+Epoch 28/100
+432/432 [==============================] - 0s - loss: 0.0037 - mean_squared_error: 0.0037 - val_loss: 0.0041 - val_mean_squared_error: 0.0041
+Epoch 29/100
+432/432 [==============================] - 0s - loss: 0.0050 - mean_squared_error: 0.0050 - val_loss: 0.0052 - val_mean_squared_error: 0.0052
+Epoch 30/100
+432/432 [==============================] - 0s - loss: 0.0039 - mean_squared_error: 0.0039 - val_loss: 0.0045 - val_mean_squared_error: 0.0045
+Epoch 31/100
+432/432 [==============================] - 0s - loss: 0.0054 - mean_squared_error: 0.0054 - val_loss: 0.0054 - val_mean_squared_error: 0.0054
+Epoch 32/100
+432/432 [==============================] - 0s - loss: 0.0045 - mean_squared_error: 0.0045 - val_loss: 0.0040 - val_mean_squared_error: 0.0040
+Epoch 33/100
+432/432 [==============================] - 0s - loss: 0.0038 - mean_squared_error: 0.0038 - val_loss: 0.0086 - val_mean_squared_error: 0.0086
+Epoch 34/100
+432/432 [==============================] - 0s - loss: 0.0046 - mean_squared_error: 0.0046 - val_loss: 0.0041 - val_mean_squared_error: 0.0041
+Epoch 35/100
+432/432 [==============================] - 0s - loss: 0.0035 - mean_squared_error: 0.0035 - val_loss: 0.0109 - val_mean_squared_error: 0.0109
+Epoch 36/100
+432/432 [==============================] - 0s - loss: 0.0050 - mean_squared_error: 0.0050 - val_loss: 0.0050 - val_mean_squared_error: 0.0050
+Epoch 37/100
+432/432 [==============================] - 0s - loss: 0.0029 - mean_squared_error: 0.0029 - val_loss: 0.0128 - val_mean_squared_error: 0.0128
+Epoch 38/100
+432/432 [==============================] - 0s - loss: 0.0069 - mean_squared_error: 0.0069 - val_loss: 0.0060 - val_mean_squared_error: 0.0060
+Epoch 39/100
+432/432 [==============================] - 0s - loss: 0.0031 - mean_squared_error: 0.0031 - val_loss: 0.0043 - val_mean_squared_error: 0.0043
+Epoch 40/100
+432/432 [==============================] - 0s - loss: 0.0041 - mean_squared_error: 0.0041 - val_loss: 0.0075 - val_mean_squared_error: 0.0075
+Epoch 41/100
+432/432 [==============================] - 0s - loss: 0.0050 - mean_squared_error: 0.0050 - val_loss: 0.0036 - val_mean_squared_error: 0.0036
+Epoch 42/100
+432/432 [==============================] - 0s - loss: 0.0037 - mean_squared_error: 0.0037 - val_loss: 0.0084 - val_mean_squared_error: 0.0084
+Epoch 43/100
+432/432 [==============================] - 0s - loss: 0.0042 - mean_squared_error: 0.0042 - val_loss: 0.0039 - val_mean_squared_error: 0.0039
+Epoch 44/100
+432/432 [==============================] - 0s - loss: 0.0028 - mean_squared_error: 0.0028 - val_loss: 0.0042 - val_mean_squared_error: 0.0042
+Epoch 45/100
+432/432 [==============================] - 0s - loss: 0.0058 - mean_squared_error: 0.0058 - val_loss: 0.0042 - val_mean_squared_error: 0.0042
+Epoch 46/100
+432/432 [==============================] - 0s - loss: 0.0035 - mean_squared_error: 0.0035 - val_loss: 0.0047 - val_mean_squared_error: 0.0047
+Epoch 47/100
+432/432 [==============================] - 0s - loss: 0.0042 - mean_squared_error: 0.0042 - val_loss: 0.0047 - val_mean_squared_error: 0.0047
+Epoch 48/100
+432/432 [==============================] - 0s - loss: 0.0041 - mean_squared_error: 0.0041 - val_loss: 0.0035 - val_mean_squared_error: 0.0035
+Epoch 49/100
+432/432 [==============================] - 0s - loss: 0.0036 - mean_squared_error: 0.0036 - val_loss: 0.0036 - val_mean_squared_error: 0.0036
+Epoch 50/100
+432/432 [==============================] - 0s - loss: 0.0048 - mean_squared_error: 0.0048 - val_loss: 0.0057 - val_mean_squared_error: 0.0057
+Epoch 51/100
+432/432 [==============================] - 0s - loss: 0.0036 - mean_squared_error: 0.0036 - val_loss: 0.0034 - val_mean_squared_error: 0.0034
+Epoch 52/100
+432/432 [==============================] - 0s - loss: 0.0031 - mean_squared_error: 0.0031 - val_loss: 0.0045 - val_mean_squared_error: 0.0045
+Epoch 53/100
+432/432 [==============================] - 0s - loss: 0.0041 - mean_squared_error: 0.0041 - val_loss: 0.0037 - val_mean_squared_error: 0.0037
+Epoch 54/100
+432/432 [==============================] - 0s - loss: 0.0037 - mean_squared_error: 0.0037 - val_loss: 0.0032 - val_mean_squared_error: 0.0032
+Epoch 55/100
+432/432 [==============================] - 0s - loss: 0.0023 - mean_squared_error: 0.0023 - val_loss: 0.0029 - val_mean_squared_error: 0.0029
+Epoch 56/100
+432/432 [==============================] - 0s - loss: 0.0049 - mean_squared_error: 0.0049 - val_loss: 0.0033 - val_mean_squared_error: 0.0033
+Epoch 57/100
+432/432 [==============================] - 0s - loss: 0.0027 - mean_squared_error: 0.0027 - val_loss: 0.0069 - val_mean_squared_error: 0.0069
+Epoch 58/100
+432/432 [==============================] - 0s - loss: 0.0046 - mean_squared_error: 0.0046 - val_loss: 0.0028 - val_mean_squared_error: 0.0028
+Epoch 59/100
+432/432 [==============================] - 0s - loss: 0.0023 - mean_squared_error: 0.0023 - val_loss: 0.0027 - val_mean_squared_error: 0.0027
+Epoch 60/100
+432/432 [==============================] - 0s - loss: 0.0029 - mean_squared_error: 0.0029 - val_loss: 0.0029 - val_mean_squared_error: 0.0029
+Epoch 61/100
+432/432 [==============================] - 0s - loss: 0.0037 - mean_squared_error: 0.0037 - val_loss: 0.0042 - val_mean_squared_error: 0.0042
+Epoch 62/100
+432/432 [==============================] - 0s - loss: 0.0031 - mean_squared_error: 0.0031 - val_loss: 0.0037 - val_mean_squared_error: 0.0037
+Epoch 63/100
+432/432 [==============================] - 0s - loss: 0.0025 - mean_squared_error: 0.0025 - val_loss: 0.0052 - val_mean_squared_error: 0.0052
+Epoch 64/100
+432/432 [==============================] - 0s - loss: 0.0030 - mean_squared_error: 0.0030 - val_loss: 0.0061 - val_mean_squared_error: 0.0061
+Epoch 65/100
+432/432 [==============================] - 0s - loss: 0.0033 - mean_squared_error: 0.0033 - val_loss: 0.0040 - val_mean_squared_error: 0.0040
+Epoch 66/100
+432/432 [==============================] - 0s - loss: 0.0031 - mean_squared_error: 0.0031 - val_loss: 0.0026 - val_mean_squared_error: 0.0026
+Epoch 67/100
+432/432 [==============================] - 0s - loss: 0.0020 - mean_squared_error: 0.0020 - val_loss: 0.0079 - val_mean_squared_error: 0.0079
+Epoch 68/100
+432/432 [==============================] - 0s - loss: 0.0046 - mean_squared_error: 0.0046 - val_loss: 0.0033 - val_mean_squared_error: 0.0033
+Epoch 69/100
+432/432 [==============================] - 0s - loss: 0.0039 - mean_squared_error: 0.0039 - val_loss: 0.0047 - val_mean_squared_error: 0.0047
+Epoch 70/100
+432/432 [==============================] - 0s - loss: 0.0029 - mean_squared_error: 0.0029 - val_loss: 0.0029 - val_mean_squared_error: 0.0029
+Epoch 71/100
+432/432 [==============================] - 0s - loss: 0.0024 - mean_squared_error: 0.0024 - val_loss: 0.0024 - val_mean_squared_error: 0.0024
+Epoch 72/100
+432/432 [==============================] - 0s - loss: 0.0037 - mean_squared_error: 0.0037 - val_loss: 0.0031 - val_mean_squared_error: 0.0031
+Epoch 73/100
+432/432 [==============================] - 0s - loss: 0.0029 - mean_squared_error: 0.0029 - val_loss: 0.0027 - val_mean_squared_error: 0.0027
+Epoch 74/100
+432/432 [==============================] - 0s - loss: 0.0030 - mean_squared_error: 0.0030 - val_loss: 0.0040 - val_mean_squared_error: 0.0040
+Epoch 75/100
+432/432 [==============================] - 0s - loss: 0.0023 - mean_squared_error: 0.0023 - val_loss: 0.0028 - val_mean_squared_error: 0.0028
+Epoch 76/100
+432/432 [==============================] - 0s - loss: 0.0019 - mean_squared_error: 0.0019 - val_loss: 0.0030 - val_mean_squared_error: 0.0030
+Epoch 77/100
+432/432 [==============================] - 0s - loss: 0.0039 - mean_squared_error: 0.0039 - val_loss: 0.0039 - val_mean_squared_error: 0.0039
+Epoch 78/100
+432/432 [==============================] - 0s - loss: 0.0029 - mean_squared_error: 0.0029 - val_loss: 0.0085 - val_mean_squared_error: 0.0085
+Epoch 79/100
+432/432 [==============================] - 0s - loss: 0.0029 - mean_squared_error: 0.0029 - val_loss: 0.0114 - val_mean_squared_error: 0.0114
+Epoch 80/100
+432/432 [==============================] - 0s - loss: 0.0048 - mean_squared_error: 0.0048 - val_loss: 0.0025 - val_mean_squared_error: 0.0025
+Epoch 81/100
+432/432 [==============================] - 0s - loss: 0.0017 - mean_squared_error: 0.0017 - val_loss: 0.0088 - val_mean_squared_error: 0.0088
+Epoch 82/100
+432/432 [==============================] - 0s - loss: 0.0033 - mean_squared_error: 0.0033 - val_loss: 0.0047 - val_mean_squared_error: 0.0047
+Epoch 83/100
+432/432 [==============================] - 0s - loss: 0.0030 - mean_squared_error: 0.0030 - val_loss: 0.0026 - val_mean_squared_error: 0.0026
+Epoch 84/100
+432/432 [==============================] - 0s - loss: 0.0025 - mean_squared_error: 0.0025 - val_loss: 0.0042 - val_mean_squared_error: 0.0042
+Epoch 85/100
+432/432 [==============================] - 0s - loss: 0.0024 - mean_squared_error: 0.0024 - val_loss: 0.0036 - val_mean_squared_error: 0.0036
+Epoch 86/100
+432/432 [==============================] - 0s - loss: 0.0023 - mean_squared_error: 0.0023 - val_loss: 0.0082 - val_mean_squared_error: 0.0082
+Epoch 87/100
+432/432 [==============================] - 0s - loss: 0.0044 - mean_squared_error: 0.0044 - val_loss: 0.0028 - val_mean_squared_error: 0.0028
+Epoch 88/100
+432/432 [==============================] - 0s - loss: 0.0022 - mean_squared_error: 0.0022 - val_loss: 0.0033 - val_mean_squared_error: 0.0033
+Epoch 89/100
+432/432 [==============================] - 0s - loss: 0.0027 - mean_squared_error: 0.0027 - val_loss: 0.0047 - val_mean_squared_error: 0.0047
+Epoch 90/100
+432/432 [==============================] - 0s - loss: 0.0032 - mean_squared_error: 0.0032 - val_loss: 0.0032 - val_mean_squared_error: 0.0032
+Epoch 91/100
+432/432 [==============================] - 0s - loss: 0.0027 - mean_squared_error: 0.0027 - val_loss: 0.0024 - val_mean_squared_error: 0.0024
+Epoch 92/100
+432/432 [==============================] - 0s - loss: 0.0019 - mean_squared_error: 0.0019 - val_loss: 0.0024 - val_mean_squared_error: 0.0024
+Epoch 93/100
+432/432 [==============================] - 0s - loss: 0.0022 - mean_squared_error: 0.0022 - val_loss: 0.0043 - val_mean_squared_error: 0.0043
+Epoch 94/100
+432/432 [==============================] - 0s - loss: 0.0030 - mean_squared_error: 0.0030 - val_loss: 0.0026 - val_mean_squared_error: 0.0026
+Epoch 95/100
+432/432 [==============================] - 0s - loss: 0.0020 - mean_squared_error: 0.0020 - val_loss: 0.0064 - val_mean_squared_error: 0.0064
+Epoch 96/100
+432/432 [==============================] - 0s - loss: 0.0037 - mean_squared_error: 0.0037 - val_loss: 0.0047 - val_mean_squared_error: 0.0047
+Epoch 97/100
+432/432 [==============================] - 0s - loss: 0.0020 - mean_squared_error: 0.0020 - val_loss: 0.0039 - val_mean_squared_error: 0.0039
+Epoch 98/100
+432/432 [==============================] - 0s - loss: 0.0018 - mean_squared_error: 0.0018 - val_loss: 0.0111 - val_mean_squared_error: 0.0111
+Epoch 99/100
+432/432 [==============================] - 0s - loss: 0.0037 - mean_squared_error: 0.0037 - val_loss: 0.0030 - val_mean_squared_error: 0.0030
+Epoch 100/100
+432/432 [==============================] - 0s - loss: 0.0015 - mean_squared_error: 0.0015 - val_loss: 0.0045 - val_mean_squared_error: 0.0045
